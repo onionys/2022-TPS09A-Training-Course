@@ -4,46 +4,25 @@
 
 ## 1-1
 
-<img src="./imgs/d1-1a.gif" width="100"> <img src="./imgs/d1-1b.gif" width="100">
-
-![alt](./imgs/d1-1a.gif ) 
-
-![alt](./imgs/d1-1b.gif )
+<img src="./imgs/d1-1a.gif" width="400"> <img src="./imgs/d1-1b.gif" width="400">
 
 ## 1-3
 
-![alt](./imgs/d1-3a.gif)
-
-
-![alt](./imgs/d1-3b.gif)
+<img src="./imgs/d1-3a.gif" width="400"> <img src="./imgs/d1-3b.gif" width="400">
 
 ## 1-4
 
-![alt](./imgs/d1-4a.gif)
-
-
-![alt](./imgs/d1-4b.gif)
+<img src="./imgs/d1-4a.gif" width="400"> <img src="./imgs/d1-4b.gif" width="400">
 
 ## 1-5
 
-![alt](./imgs/d1-5a.gif)
+<img src="./imgs/d1-5a.gif" width="400"> <img src="./imgs/d1-5b.gif" width="400">
 
-
-![alt](./imgs/d1-5b.gif)
-
-
-![alt](./imgs/d1-5c.gif)
-
-
-![alt](./imgs/d1-5d.gif)
+<img src="./imgs/d1-5c.gif" width="400"> <img src="./imgs/d1-5d.gif" width="400">
 
 ## 1-6
 
-![alt](./imgs/d1-6a.gif)
-
-
-![alt](./imgs/d1-6b.gif)
-
+<img src="./imgs/d1-6a.gif" width="400"> <img src="./imgs/d1-6b.gif" width="400">
 
 ## 1-7
 

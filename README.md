@@ -4,7 +4,11 @@
 
 ## 1-1
 
-![alt](./imgs/d1-1a.gif | width=100) ![alt](./imgs/d1-1b.gif | width=100)
+<img src="./imgs/d1-1a.gif" width="100"> <img src="./imgs/d1-1b.gif" width="100">
+
+![alt](./imgs/d1-1a.gif ) 
+
+![alt](./imgs/d1-1b.gif )
 
 ## 1-3
 

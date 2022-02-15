@@ -1,16 +1,15 @@
 # 2022 NSRRC TPS09A L4 課程補充教材
 
-下圖為搖晃放置在繞射儀上的晶體，在倒空間中的樣子。
-量測進行時透過轉動 th, chi, phi 三個角度(馬達)來轉動晶體。
+下圖為模擬搖晃放置在繞射儀上的晶體，在倒空間中的樣子。
 
 X-axis, Y-axis, Z-axis 就是講議的 Lab Frame (實驗室座標軸)。
-H-axi, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實就是 Miller Index。
+H-axis, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實就是 Miller Index。
 
 ![alt](./imgs/21-lab-fram-and-cry-fram.gif)
 
 ## 1-1
 
-下圖為晶體固定，變化視角一圈。下左為實驗空間圖(視角距離抓太近，待修正)，下右為倒晶格空間視圖。
+下圖為晶體固定，變化視角一圈。下左為實驗空間視圖(視角距離抓太近，待修正)，下右為倒晶格空間視圖。
 
 <img src="./imgs/d1-1a.gif" width="400"> <img src="./imgs/d1-1b.gif" width="400">
 

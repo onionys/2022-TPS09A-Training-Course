@@ -46,11 +46,11 @@ H-axi, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實�
 
 下圖為晶體在 `tth=45, th = 45/2, chi=-45` 的情況下轉動 `phi` 角的情形。
 
-<img src="./imgs/d1-6a.gif" width="400"> <img src="./imgs/d1-6b.gif" width="400">
+<img src="./imgs/d1-6ab.gif" width="800">
 
 ## 1-7 `tth:th` 以 `2:1` 的比例轉動
 
-<img src="./imgs/d1-7a.gif" width="400"> <img src="./imgs/d1-7b.gif" width="400">
+<img src="./imgs/d1-7ab.gif" width="800">
 
 下圖把視角固定在 Crystal Frame 上，可看到 `tth:th` 以 `2:1` 的比例轉動時候 q vector 的變化軌跡會是由原點向外移動的直線。
 
@@ -60,7 +60,7 @@ H-axi, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實�
 
 和圖 `1-4` 的差別在 `q vector` 的 "長度" 等於 `Si(001)` 的 "距離"。所以在轉動 `th` 角度的時候，detector (偵檢器) 會量測到繞射強度。
 
-<img src="./imgs/d1-8a.gif" width="400"> <img src="./imgs/d1-8b.gif" width="400">
+<img src="./imgs/d1-8ab.gif" width="800">
 
 下圖把視角固定在 Crystal Frame 上。
 
@@ -81,27 +81,20 @@ H-axi, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實�
 
 ## 1-10
 
-![alt](./imgs/d1-10a.gif) ![alt](./imgs/d1-10b.gif)
+<img src="./imgs/d1-10ab.gif" width="800">
 
 
 ![alt](./imgs/d1-10c.gif)
 
 ## 1-11
 
-![alt](./imgs/d1-11a.gif)
-
-
-![alt](./imgs/d1-11b.gif)
-
+<img src="./imgs/d1-11ab.gif" width="800">
 
 ![alt](./imgs/d1-11c.gif)
 
 ## 1-12
 
-![alt](./imgs/d1-12a.gif)
-
-
-![alt](./imgs/d1-12b.gif)
+<img src="./imgs/d1-12ab.gif" width="800">
 
 
 ![alt](./imgs/d1-12c.gif)

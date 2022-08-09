@@ -36,7 +36,7 @@ FourC 檔案的結構由一個 Header 區塊和多個 Scan 區塊所組成。而
 
 下圖顯示一個 FourC 檔案的 Scan 區塊的樣子。每一行的開頭會由一個 "#" 加上一個英文字母表示該行的定義。 
 
-<img src="./imgs/fourc-03.png" width="400"> 
+<img src="./imgs/fourc-04.png" width="400"> 
 
 結構說明如下
 

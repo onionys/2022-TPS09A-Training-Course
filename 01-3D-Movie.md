@@ -65,9 +65,7 @@ H-axis, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實�
 
 ![alt](./imgs/d1-8c.gif)
 
-## 1-9
-
-在 Surface Normal 的繞射點上，進行 chi scan 的情形。
+## 1-9 在 Surface Normal 的繞射點上，進行 chi scan 的情形。
 
 實體空間：
 
@@ -87,26 +85,20 @@ H-axis, K-axis, L-axis 就是講議的 Crystal Frame (晶體座標軸)，其實�
 
 可以知道，在 Surface Normal 的繞射點上進行 phi scan 不太有意義。
 
-## 1-10
-
-在 off-normal 的繞射點上進行 phi scan 的情形。
+## 1-10 在 off-normal 的繞射點上進行 phi scan 的情形。
 
 <img src="./imgs/d1-10ab.gif" width="800">
 
 
 ![alt](./imgs/d1-10c.gif)
 
-## 1-11
-
-在 off-normal 的繞射點上進行 tth/th scan 的情形。
+## 1-11 在 off-normal 的繞射點上進行 tth/th scan 的情形。
 
 <img src="./imgs/d1-11ab.gif" width="800">
 
 ![alt](./imgs/d1-11c.gif)
 
-## 1-12
-
-在 off-normal 的繞射點上進行 chi scan 的情形。
+## 1-12 在 off-normal 的繞射點上進行 chi scan 的情形。
 
 <img src="./imgs/d1-12ab.gif" width="800">
 
